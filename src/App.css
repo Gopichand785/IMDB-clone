@@ -1,3 +1,13 @@
+@media only screen and (max-width: 991px){
+
+  .mobile{
+      display: block;
+  }
+  .desktop{
+    display: block;
+  }
+}
+
 .App{
     background-color: black;
     color:white;

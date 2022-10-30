@@ -8,7 +8,7 @@ const Header=()=>{
             <div className="header-left">
             <Link to="/"><img className="header_icon" src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/IMDB_Logo_2016.svg/2560px-IMDB_Logo_2016.svg.png' width='80px'/></Link>
             <Link to="/movies/popular" style={{textDecoration:'none'}}><span>Popular</span></Link>
-            <Link to="/movies/top_rated" style={{textDecoration:'none'}}><span>Top Rated</span></Link>
+            <Link to="/movies/top_rated" style={{textDecoration:'none'}}><span>TopRated</span></Link>
             <Link to="/movies/upcoming" style={{textDecoration:'none'}}><span>upcoming</span></Link>
             </div>
         </div>
